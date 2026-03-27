@@ -22,3 +22,9 @@ fun areaOfCircle(radius: Double): Double {
 fun greet() {
     println("Hello, welcome to Kotlin programming!")
 }
+
+// 4. Function with parameters
+// A function with parameters is a function that takes one or more parameters and it is used to perform a specific task
+fun add(a: Int, b: Int): Int {
+    return a + b
+}
