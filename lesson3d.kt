@@ -11,6 +11,3 @@ fun main() {
     // accessing items of an array by use of index
     println("Item on index three is: " + numbers[3])
 }
-
-// on the book do the assignments on page 29 and 30
-// research on function without parameters in kotlin
